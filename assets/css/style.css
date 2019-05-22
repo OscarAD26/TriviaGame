@@ -1,0 +1,8 @@
+.quiz {
+    display: none;
+}
+
+.quiz, ul, h1, h2 {
+    list-style: none;
+    padding: 20;
+}
